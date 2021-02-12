@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header-container {
+  position: fixed;
+  width: 100%;
+}
+
+header {
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.header-section {
+}
